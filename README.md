@@ -15,7 +15,7 @@ In-class exercise and HW for eeb-177
 
 [Here is a video of a Maltese](https://youtu.be/_VXYiHHV6QY)
 
-## Grade Duscission #1: 20/20
+## Grade Duscission #1:  20/20
 
 | **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
 | --- | ---| --- | --- | --- | --- |
@@ -25,7 +25,7 @@ In-class exercise and HW for eeb-177
 | Challenge - Timely Submission | **X** | | | |
 
 
-## Grade Duscission #2: 20/20
+## Grade Duscission #2:  20/20
 
 | **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
 | --- | ---| --- | --- | --- | --- |
